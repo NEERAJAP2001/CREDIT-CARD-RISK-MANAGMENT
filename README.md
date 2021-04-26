@@ -19,6 +19,6 @@ I have used supervised learning for this to be done.
 I managed to get accuracy of 82% with tuning .
 
 # GUIDANCE : 
-SKLEARN : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-PYCARET : https://pycaret.org/
+* SKLEARN : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+* PYCARET : https://pycaret.org/
 
